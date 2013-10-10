@@ -1,4 +1,4 @@
 thinkincpp
 ==========
 
-Think in C++ 3rd edition
+Think in C++ 2nd Edition
